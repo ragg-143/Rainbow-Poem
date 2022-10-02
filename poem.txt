@@ -6,10 +6,10 @@ Purple
 Pink
 Orange
 Blue
-Green
+Green=
 Indigo
 Unicorn
-Yellow
+Yellow-3ee
 Red
 These are the colors of the rainbow.
 And the unicorn.
